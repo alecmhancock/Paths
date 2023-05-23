@@ -3,6 +3,7 @@ import requests as rq
 import pandas as pd
 from datetime import datetime
 import pytz
+import shapely
 from shapely import wkt
 from shapely.geometry import Polygon
 
