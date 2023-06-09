@@ -2,6 +2,7 @@
 
 PATHS is a Python project that provides live storm data visualization using the Streamlit library. It retrieves active storm alerts from the National Weather Service API and displays them in an interactive interface, allowing users to view event details and visualize the storms on a map.
 
+This application is hosted here: https://alecmhancock-paths-pathspaths-cgvr65.streamlit.app/
 # Features
 - Display a list of active storm events
 - Filter events based on user preferences
